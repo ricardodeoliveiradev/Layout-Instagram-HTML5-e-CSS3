@@ -1,0 +1,149 @@
+.menu {
+    display: flex;
+    width: 100%;
+    height: 55px;
+    padding: 12px 176px;
+    box-sizing: border-box;
+}
+
+.login {
+    width: 13%;
+    height: 31px;
+    border-radius: 5px;
+    margin-right: 57px;
+    background-color: #E0E5F1;
+}
+
+.pesquisar {
+    width: 23%;
+    height: 31px;
+    border-radius: 5px;
+    background-color: #E0E5F1;
+}
+
+.config {
+    display: flex;
+    width: 9%;
+    height: 31px;
+    border-radius: 5px;
+    margin-left: 329px; 
+}
+
+.point1 {
+    width: 31px;
+    height: 31px;
+    border-radius: 31px;
+    margin-right: 8px;
+    background-color: #E0E5F1;
+}  
+
+.point2 {
+    width: 31px;
+    height: 31px;
+    border-radius: 31px;
+    margin-right: 8px;
+    background-color: #E0E5F1;  
+}
+
+.point3 {
+     width: 31px;
+    height: 31px;
+    border-radius: 31px;
+    background-color: #E0E5F1;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 227px;
+    padding-top: 67px;
+    padding-left: 176px;
+    box-sizing: border-box;
+}
+
+.photo {
+    width: 160px;
+    height: 160px;
+    border-radius: 160px;
+    background-color: #FF9DC0; 
+}
+
+.perfil {
+    text-align: center;
+    line-height: 160px;
+    font-weight: bolder;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.dados {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 39%;
+    height: 104px;
+    margin-left: 57px;
+}
+
+.line1 {
+    width: 100%;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #E0E5F1;
+}
+
+.line2 {
+    width: 90%;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #E0E5F1;
+}
+
+.line3 {
+    width: 93%;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #E0E5F1;
+}
+
+.line4 {
+    width: 55%;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #E0E5F1;
+}
+
+.line5 {
+    width: 57%;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #E0E5F1;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 667px;
+    padding: 53px 176px 0;
+    box-sizing: border-box;
+}
+
+.album {
+    display: flex;
+    width: 100%;
+    /* height: 293px; */
+}
+
+.foto {
+    flex: 1 0 0%;
+    height: 293px;
+    border-radius: 5px;
+    margin-right: 28px;
+    background-color: #E0E5F1;
+}
+
+
+
